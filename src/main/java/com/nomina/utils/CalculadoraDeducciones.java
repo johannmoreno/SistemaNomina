@@ -1,4 +1,4 @@
-package utils;
+package com.nomina.utils;
 public class CalculadoraDeducciones {
 
     private static final double SEGURIDAD_SOCIAL = 0.04;
